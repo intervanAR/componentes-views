@@ -1,14 +1,14 @@
 {
-  "name": "@hugo-85/autogestion-views",
+  "name": "@intervanAR/componentes-views",
   "version": "0.1.87",
   "files": [
     "./dist",
     "dist/assets"
   ],
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@hugo-85/autogestion"
+    "registry": "https://npm.pkg.github.com/@intervanAR/componentes-ov"
   },
-  "repository": "git://github.com/hugo-85/autogestion",
+  "repository": "git://github.com/intervanAR/componentes-ov",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "source": "src/index.js",
